@@ -1,0 +1,8 @@
+PyQt5
+psycopg2-binary
+opencv-python
+Pillow
+amqtt
+requests
+openpyxl
+paho-mqtt
